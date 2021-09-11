@@ -77,5 +77,14 @@ main {
   background-color: var(--primary-color);
   padding: 0.25rem 0.5rem;
   border-radius: 3px;
-  font-weight: bold;
+}
+
+.movie-info span.green {
+  background-color: green;
+}
+.movie-info span.orange {
+  background-color: rgba(255, 166, 0, 0.733);
+}
+.movie-info span.red {
+  background-color: rgba(255, 0, 0, 0.63);
 }
